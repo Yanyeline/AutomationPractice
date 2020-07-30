@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Address registration" skipped="0" tests="1" time="45.61" timestamp="2020-07-30 10:37:49"><testcase name="user can successfully register addresses"><failure message="page found is not the same as the expected one" type="java.lang.AssertionError">page found is not the same as the expected one</failure><system-err>page found is not the same as the expected one&#13;
+com.automationpractice.certification.definitions.LoginDefiniton.i_go_to_the_page(LoginDefiniton.java:44)&#13;
+✽.I go to the "Addresses - My Store" page(src/test/resources/features/myAccount.feature:19)&#13;
+</system-err></testcase></testsuite>
